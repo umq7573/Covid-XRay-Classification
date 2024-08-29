@@ -1,5 +1,6 @@
 # CS 449 Final Project
-Uzair Qadir and Ian Cramer were primarily responsible for the VGG model training
+Uzair Qadir and Ian Cramer were primarily responsible for the VGG model training.
+
 The project has three main pieces:
 
 - your proposal in `proposal.ipynb`, due February 1
